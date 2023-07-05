@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vigmar Junior 😁
+## Bem-vindo(a) ao perfil do Vigmar Junior
 
  <div>
    <a href="https://github.com/Vigmar-Junior">
